@@ -7,10 +7,10 @@ The CFPB's primary mission is to ensure that financial products and services are
 One of the key functions of CFPB is Complaint Handling. The bureau operates a consumer complaint database where individuals can submit complaints about financial products and services that are sent to the organisation for a response. Complaint data can be downloaded from the website or through their API. The file complaints.csv 
 
 ### Dataset used in analysis
-Size: 2.79 GB
-Format: CSV
-Source: https://www.consumerfinance.gov/
-Dowloaded Date: 05-12-2023
-Number of complaints: 4375202
-Start Date: 2011-12-01
+Size: 2.79 GB, 
+Format: CSV, 
+Source: https://www.consumerfinance.gov/, 
+Dowloaded Date: 05-12-2023, 
+Number of complaints: 4375202, 
+Start Date: 2011-12-01, 
 End Date: 2023-12-04
