@@ -6,6 +6,10 @@ The CFPB's primary mission is to ensure that financial products and services are
 
 One of the key functions of CFPB is Complaint Handling. The bureau operates a consumer complaint database where individuals can submit complaints about financial products and services that are sent to the organization for a response. Complaint data can be downloaded from the website or through their API. The file complaints.csv 
 
+
+#### Exploratory data analysis:
+CFPB_EDA.ipynb --> EDA is performed using pandas on a local machine by accessing the file in local storage. 
+
 ### Dataset used in analysis
 Size: 2.79 GB <br>
 Format: CSV <br>
@@ -14,7 +18,6 @@ Downloaded Date: 05-12-2023 <br>
 Number of complaints/rows: 4375202 <br>
 Start Date: 2011-12-01 <br>
 End Date: 2023-12-04 <br>
+<br>
 
-#### Exploratory data analysis:
-CFPB_EDA.ipynb --> EDA is performed using pandas on a local machine by accessing the file in local storage. <br>
 CFPB_EDA_SPARK.html --> EDA is performed using Spark on Azure Databricks by accessing data from CFPB API.
