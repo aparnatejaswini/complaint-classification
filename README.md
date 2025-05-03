@@ -8,7 +8,7 @@ One of the key functions of CFPB is Complaint Handling. The bureau operates a co
 
 
 #### Exploratory data analysis:
-CFPB_EDA.ipynb --> EDA is performed using pandas on a local machine by accessing the file in local storage. 
+**CFPB_EDA.ipynb** --> EDA is performed using pandas on a local machine by accessing the file in local storage. 
 
 ### Dataset used in analysis
 Size: 2.79 GB <br>
@@ -20,4 +20,9 @@ Start Date: 2011-12-01 <br>
 End Date: 2023-12-04 <br>
 <br>
 
-CFPB_EDA_SPARK.html --> EDA is performed using Spark on Azure Databricks by accessing data from CFPB API.
+**CFPB_EDA_SPARK.html** --> EDA is performed using Spark on Azure Databricks by accessing data from **CFPB API**.
+Data retrieved from 01-01-2012 to 31-12-2023
+<br>
+
+**CFPB_SPARK_EDA.html** --> EDA using Spark on Azure Databricks by accessing data from **CFPB API**
+Retrieved data from 01.01.2023 to 31.12.2023
